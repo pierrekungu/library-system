@@ -1,5 +1,7 @@
 LIBRARY MANAGEMENT SYSTEM
+
 Video Demo: https://youtu.be/jQGzqNOPJuM
+
 Description:
 The project is a library management system that manages most library functions. The system automates most processes, including student book requests, maintaining the book database, and student messages. Also, the management system allows for administrator and student privileges. The sign-up form provides admin and student options, where the student ID is necessary for student registration. A student database confirms learners are registered at the university. The system allows for unique usernames; as such, the system automatically recognizes the admin and student during sign-in. A user session remembers the user login and ensures access until the user sign-outs.
 
